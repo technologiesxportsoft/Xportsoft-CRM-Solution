@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./login.png" width="500" alt="Template" /></a>
+  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./login.png" width="400" alt="Template" /></a>
 </p>
 
 <div align="center">
@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./admin.png" width="500" alt="Template" /></a>
+  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./admin.png" width="600" alt="Template" /></a>
 </p>
 
 <p align="center">
