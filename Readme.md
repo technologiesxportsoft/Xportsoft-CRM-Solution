@@ -1,4 +1,4 @@
-  <h2 align="center">A progressive <a href="https://xportsoft.com/" target="_blank">eSEO solution</a></h2><br/>
+  <h2 align="center">A progressive <a href="https://xportsoft.com/" target="_blank">CRM solution</a></h2><br/>
 
 
 <p align="center">
@@ -13,7 +13,7 @@
       </td>
       <td>
         <p><b style="color:red">TAILORED TO</b> 
-          Your Business.<br/> <br/>eSEO solutions with an aaim of offering internet marketing solutions for clients that will be justified by high returns on investment.
+          Your Business.<br/> <br/>CRM solutions with an aaim of offering internet marketing solutions for clients that will be justified by high returns on investment.
         <ul>
             <li>Highly performing, responsive, and heavy-duty Admin panel</li>
             <li>Scalable, cutting-edge, and hybrid solutions</li>
