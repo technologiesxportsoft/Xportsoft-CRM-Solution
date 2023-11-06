@@ -32,5 +32,5 @@
 </p><br/>
 
 <p align="center">
-  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./xportsoft_logo.png" width="80" alt="logo" /></a>
+  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./xportsoft_logo.png" width="100" alt="logo" /></a>
 </p>
