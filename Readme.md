@@ -28,7 +28,7 @@
 </div><br/>
 
 <p align="center">
-  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./admin.png" width="600" alt="Template" /></a>
+  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./admin.png" width="100%" alt="Template" /></a>
 </p><br/>
 
 <p align="center">
