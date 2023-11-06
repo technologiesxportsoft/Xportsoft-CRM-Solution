@@ -1,8 +1,8 @@
-  <h2 align="center">A progressive <a href="https://eseo.eseosolutions.ae/" target="_blank">eSEO solution</a></h2><br/>
+  <h2 align="center">A progressive <a href="https://xportsoft.com/" target="_blank">eSEO solution</a></h2><br/>
 
 
 <p align="center">
-  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./login.png" width="400" alt="Template" /></a>
+  <a href="https://xportsoft.com/" target="blank"><img src="./login.jpg" width="400" alt="Template" /></a>
 </p>
 
 <div align="center">
@@ -28,9 +28,9 @@
 </div><br/>
 
 <p align="center">
-  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./admin.png" width="100%" alt="Template" /></a>
+  <a href="https://xportsoft.com/" target="blank"><img src="./admin.png" width="100%" alt="Template" /></a>
 </p><br/>
 
 <p align="center">
-  <a href="https://eseo.eseosolutions.ae/" target="blank"><img src="./xportsoft_logo.png" width="100" alt="logo" /></a>
+  <a href="https://xportsoft.com/" target="blank"><img src="./xportsoft_logo.png" width="100" alt="logo" /></a>
 </p>
